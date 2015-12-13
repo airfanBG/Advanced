@@ -1,0 +1,6 @@
+D:\programming\8.Advanced\8.Advanced\04_Palindromes\bin\Debug\04_Palindromes.exe.config
+D:\programming\8.Advanced\8.Advanced\04_Palindromes\bin\Debug\04_Palindromes.exe
+D:\programming\8.Advanced\8.Advanced\04_Palindromes\bin\Debug\04_Palindromes.pdb
+D:\programming\8.Advanced\8.Advanced\04_Palindromes\obj\Debug\04_Palindromes.exe
+D:\programming\8.Advanced\8.Advanced\04_Palindromes\obj\Debug\04_Palindromes.pdb
+D:\programming\8.Advanced\8.Advanced\04_Palindromes\obj\Debug\04_Palindromes.csprojResolveAssemblyReference.cache

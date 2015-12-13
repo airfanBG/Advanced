@@ -1,0 +1,6 @@
+D:\programming\8.Advanced\8.Advanced\07_JOinLists\bin\Debug\07_JOinLists.exe.config
+D:\programming\8.Advanced\8.Advanced\07_JOinLists\bin\Debug\07_JOinLists.exe
+D:\programming\8.Advanced\8.Advanced\07_JOinLists\bin\Debug\07_JOinLists.pdb
+D:\programming\8.Advanced\8.Advanced\07_JOinLists\obj\Debug\07_JOinLists.csprojResolveAssemblyReference.cache
+D:\programming\8.Advanced\8.Advanced\07_JOinLists\obj\Debug\07_JOinLists.exe
+D:\programming\8.Advanced\8.Advanced\07_JOinLists\obj\Debug\07_JOinLists.pdb

@@ -1,0 +1,6 @@
+D:\programming\8.Advanced\8.Advanced\09_ExtractURL\bin\Debug\09_ExtractURL.exe.config
+D:\programming\8.Advanced\8.Advanced\09_ExtractURL\bin\Debug\09_ExtractURL.exe
+D:\programming\8.Advanced\8.Advanced\09_ExtractURL\bin\Debug\09_ExtractURL.pdb
+D:\programming\8.Advanced\8.Advanced\09_ExtractURL\obj\Debug\09_ExtractURL.csprojResolveAssemblyReference.cache
+D:\programming\8.Advanced\8.Advanced\09_ExtractURL\obj\Debug\09_ExtractURL.exe
+D:\programming\8.Advanced\8.Advanced\09_ExtractURL\obj\Debug\09_ExtractURL.pdb

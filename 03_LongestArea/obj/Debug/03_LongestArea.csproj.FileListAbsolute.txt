@@ -1,0 +1,6 @@
+D:\programming\8.Advanced\8.Advanced\03_LongestArea\bin\Debug\03_LongestArea.exe.config
+D:\programming\8.Advanced\8.Advanced\03_LongestArea\bin\Debug\03_LongestArea.exe
+D:\programming\8.Advanced\8.Advanced\03_LongestArea\bin\Debug\03_LongestArea.pdb
+D:\programming\8.Advanced\8.Advanced\03_LongestArea\obj\Debug\03_LongestArea.exe
+D:\programming\8.Advanced\8.Advanced\03_LongestArea\obj\Debug\03_LongestArea.pdb
+D:\programming\8.Advanced\8.Advanced\03_LongestArea\obj\Debug\03_LongestArea.csprojResolveAssemblyReference.cache

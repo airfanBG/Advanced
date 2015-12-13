@@ -1,0 +1,6 @@
+D:\programming\8.Advanced\8.Advanced\02_SortingNumbers\bin\Debug\02_SortingNumbers.exe.config
+D:\programming\8.Advanced\8.Advanced\02_SortingNumbers\bin\Debug\02_SortingNumbers.exe
+D:\programming\8.Advanced\8.Advanced\02_SortingNumbers\bin\Debug\02_SortingNumbers.pdb
+D:\programming\8.Advanced\8.Advanced\02_SortingNumbers\obj\Debug\02_SortingNumbers.exe
+D:\programming\8.Advanced\8.Advanced\02_SortingNumbers\obj\Debug\02_SortingNumbers.pdb
+D:\programming\8.Advanced\8.Advanced\02_SortingNumbers\obj\Debug\02_SortingNumbers.csprojResolveAssemblyReference.cache

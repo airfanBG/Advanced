@@ -1,0 +1,6 @@
+D:\programming\8.Advanced\8.Advanced\10_removeNames\bin\Debug\10_removeNames.exe.config
+D:\programming\8.Advanced\8.Advanced\10_removeNames\bin\Debug\10_removeNames.exe
+D:\programming\8.Advanced\8.Advanced\10_removeNames\bin\Debug\10_removeNames.pdb
+D:\programming\8.Advanced\8.Advanced\10_removeNames\obj\Debug\10_removeNames.csprojResolveAssemblyReference.cache
+D:\programming\8.Advanced\8.Advanced\10_removeNames\obj\Debug\10_removeNames.exe
+D:\programming\8.Advanced\8.Advanced\10_removeNames\obj\Debug\10_removeNames.pdb
